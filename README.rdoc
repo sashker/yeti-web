@@ -1,3 +1,51 @@
-== Welcome to YETI
+== Welcome to Yeti-web
+YETI Switch is open source carrier-grade VoIP platform. It's the robust one,
+because built on well-known components, such as PostgreSQL, Kamailio, SEMS,RoR and others.
+
+Yeti-web is the essential part of YETI Switch project. It has lots of valuable
+features for VoIP-engineers and administrators. We are struggling to make it as clear
+and simple as possible, but powerful.
+
+You may find documentation here: <https://yeti-switch.org/docs/en/yeti-ui.html>
 
 
+-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
++oooo+ooooooooooooo+/ooooooooooooooooooooooooooooooooooooooooooo/-`          `o/
++oooo/oooooooooo+/::+oooooooooooooooooooooooooooooooooooooooo/-`              o+
++oooo:/ooooooo+/:::/oooooo+/+ooooooooooooooooooooooooooooo/-` `.`             o+
++oooo::/ooo+/:://::+oo++/:::ooooooooooooooooooooooooooo/-` .:-`               o+
++ooo+:/:++/::/+o/:/+/::/:::/ooooooooo+++++oooooooooo/-` -//-                  o+
++ooo+:o+:::+ooo+:://+oo+:::+++////::::/+ooooooooo/- `-+o:`                    o+
++ooo++oo++oooooooooooo+:::::///::::/+ooooooooo/- `:oy/.                       o+
++ooooooooooooooooooooo/++oooo+:::/+oooooooo/. ./sho-                          o+
++oooooooooooooooooooooooooo/::::+ooooooo+.  `+hhhs-                           o+
++soosssooo/:-:/+oooooooooooo+/:::/+ossoooo/-`  -+yhs-                         o+
++ssssss+.`     `.++/::/+osssssso+///+ssssssss+:.  ./ss-                       s+
++ssssso.`````.//.``:/.```:osssssssso++ossssssssso/-` `:/.                     s+
++sssss+......yMMy.+MMN....+ssssssssssssssssssssssssso/-` `                    s+
++ssssss:.....-++---/+:---/sssssssssssssssssssoo+++///:::.                     s+
++sssssss+:-----:/sso+++osssssssssssssssssso-                                  s+
+ossssssssssoooosssssssssssssssssssssssssssss+`                                s+
+osssssssssssssssssssssssssssssssssssssssssssss:                               s+
+osssssssssosssssssssssssssssssssssssssssssssssso-                             so
+ossssssss::ssssssssssso.ssoossssssssssss`:+ssssss+`                           so
+ossssso+/-:+ooooooooo+/-/+ssssssssssssss.  `:+sssss/                          so
+osssssssssoo+++////++oosssssssyyyyyyssyho::: -/shhhhy/-.:::::::::::: .:::::   so
+oyyyyyyyyyyyyyyyyssyyyyyyyyyyyyhhdddyyhmmNNy dMMMMMMMMdyMMMMMMMMMMMM yMMMMM`  so
+oyyyyyyyyyyyyyyyyyyyyyyyyyyyysoyyhhhyyddmmd` dNNNMMNNNddMNNMMMMMMNNN yMMMMM`  yo
+oyyyys/syyyyyys-yyyyyyyyyyyyy/ /hhyyyyhhdd/  hmmNNm    `:+/MMMMMs    yMMMMM`  yo
+oyys: `yyyyyys. /yyyyyyyyyyys   :MNmhyyyhy   ydmmmd       -MMMMMs    yMMMMM`  yo
+oy-   :yyyyyy.   oyyyyyyyyyy-    hMMMMNmhs   yhddddddd/   .NMMMMs    yMMMMM`  yo
+oy    +yyyyy- :/ `yyyyyyyyyo     .MMMMMMmy.  yhhhhdddd/   .NNNNMs    yMMMMM`  yo
+oy    yyyyy/ -hh. -yyyyyyyy.      sMMMMMhy/  mMNNmh...`   .mmmNNs    yMMMMM`  yo
+oy   -yyyy+ .yhhs  +yyyyyy/       /MMMMMyyo  mMMMMN       .mmmmmo    yMMMMM`  yo
+oy   +yyyo `yhhhh/ `syyyys`       /MMMMNoyy` mMMMMN////`  .MMMMNs    yNNMMM`  yo
+oy   syys` oho`/hh. .yyyy:        /MMMMN /y- mMMMMMMMMM.  .MMMMMs    yMMMMM`  yo
+oy  .yyy` +h:   -ys  /yyo         :ddddh  .: hddddddddd`  .dddddo    oddddd`  yo
+sy  /yy. :y-     `o/  sy.         -////////////////////////////////////////   ys
+sy  sy- -s`        :` ./          yMNNNmmhNmmhdMMdMMMMMMdMMMMMMMMMMMMMMMMMM`  ys
+sh `y: ./                         yMN/+h+N:/s+oNm/oyo/mM:oy+oyo/+ho+/ss++MM`  ys
+sh :/  -                          yMMmdMhhmdmmMMMdmhmdMMdNmhhmmdmdhhdNdddMM`  hs
+sh :                              :++++++++++++++++++++++++++++++++++++++++`  hs
+sh`                                                                          `hs
+:syyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyys:
